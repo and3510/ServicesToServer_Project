@@ -1,13 +1,13 @@
-Aqui está uma versão aprimorada do seu README, mantendo a estrutura original e destacando as informações sobre os scripts de instalação de serviços web, como o Nginx e o serviço de domínio DNS Bind9, que foram testados no Ubuntu Server 22.04.5:
-
----
-
 <h1 align="center"> ServicesToServer </h1>
 
 <div align="center">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/nginx-green?style=for-the-badge&logo=nginx)
+![Static Badge](https://img.shields.io/badge/bind9-blue?style=for-the-badge&logo=bitdefender)
+
 
 </div>
 
